@@ -1,11 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
+import Main from './main'
 import './App.css';
-import Vd from './Component/Vd'
 function App() {
   return (
     <div>
-      <Vd/>
+      <Main/>
     </div>
   );
 }
